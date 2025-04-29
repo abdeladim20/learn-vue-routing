@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "BMV",
+    "price": 15000,
+    "year": 2015
+  },
+  {
+    "id": 2,
+    "name": "Volvo",
+    "price": 15000,
+    "year": 2015
+  },
+  {
+    "id": 3,
+    "name": "Toyota",
+    "price": 16000,
+    "year": 2016
+  },
+  {
+    "id": 4,
+    "name": "Ford",
+    "price": 18000,
+    "year": 2017
+  },
+  {
+    "id": 5,
+    "name": "Audi",
+    "price": 19000,
+    "year": 2018
+  }
+]
