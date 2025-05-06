@@ -3,30 +3,50 @@
     "id": 1,
     "name": "BMV",
     "price": 15000,
-    "year": 2015
+    "year": 2015,
+    "contact": {
+      "dealer":"reda",
+      "number": "0615475869"
+    }
   },
   {
     "id": 2,
     "name": "Volvo",
     "price": 15000,
-    "year": 2015
+    "year": 2015,
+    "contact": {
+      "dealer":"oth",
+      "number": "0633887744"
+    }
   },
   {
     "id": 3,
     "name": "Toyota",
     "price": 16000,
-    "year": 2016
+    "year": 2016,
+    "contact": {
+      "dealer":"any",
+      "number": "0699885511"
+    }
   },
   {
     "id": 4,
     "name": "Ford",
     "price": 18000,
-    "year": 2017
+    "year": 2017,
+    "contact": {
+      "dealer":"zaid",
+      "number": "0622334466"
+    }
   },
   {
     "id": 5,
     "name": "Audi",
     "price": 19000,
-    "year": 2018
+    "year": 2018,
+    "contact": {
+      "dealer":"abdeladim",
+      "number": "0615001122"
+    }
   }
 ]
